@@ -17,13 +17,14 @@ body{
     overflow: hidden;
 }
 
-.display {
-    width: 100%;
+#display {
+    width: 91%;
     padding: 20px;
     font-size: 5rem;
     border: none;
     background-color: hsl(0, 0%, 20%);
-    text-align: right;
+    color: #fff;
+    text-align: left;
 }
 
 .buttons {
